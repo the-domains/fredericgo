@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[FredericGo]]></title>
+        <description><![CDATA[FredericGo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 27 Dec 2015 22:55:53 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Title details]]></title>
+            <description><![CDATA[<article><h1>Title details</h1><p>Title</p></article>]]></description>
+            <link>undefinedtitle-details/index.html</link>
+            <guid isPermaLink="false">88f6f4ad-c641-49c7-9870-39297f40aafb</guid>
+            <pubDate>Sun, 27 Dec 2015 22:55:53 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
