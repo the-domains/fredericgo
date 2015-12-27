@@ -4,8 +4,15 @@
         <description><![CDATA[Site title]]></description>
         <link>https://thegrid.ai/fredericgo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 27 Dec 2015 23:07:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Dec 2015 23:43:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/fredericgo/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Title Details]]></title>
+            <description><![CDATA[<article><h1>Title Details</h1><p>Title</p></article>]]></description>
+            <link>https://thegrid.ai/fredericgo/title-details/index.html</link>
+            <guid isPermaLink="false">7fdf6fb2-3f8c-4044-bc32-04c79591c029</guid>
+            <pubDate>Sun, 27 Dec 2015 23:43:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sommes-nous prêts à payer pour bien manger?]]></title>
             <description><![CDATA[<article><h1>Sommes-nous prêts à payer pour bien manger?</h1><p>Dans sa chronique du 17 août, Mme Marie-Claude Lortie commente la décision des rôtisseries St-Hubert de servir du poulet dont l'alimentation comportera dorénavant jusqu'à 10% de farines animales. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/be9284d5201a02dd8029e551c207fe3fd35fb1a1.jpg"></article>]]></description>
