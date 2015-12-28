@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
-description: ''
-datePublished: '2015-12-27T23:07:27.074Z'
-dateModified: '2015-12-27T21:46:42.147Z'
+description: Bouffe
+datePublished: '2015-12-28T12:24:42.543Z'
+dateModified: '2015-12-28T12:24:34.548Z'
 title: Sommes-nous prêts à payer pour bien manger?
 author: []
 sourcePath: _posts/2015-12-27-sommes-nous-prets-a-payer-pour-bien-manger.md
