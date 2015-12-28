@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Bouffe
-datePublished: '2015-12-28T12:24:42.543Z'
-dateModified: '2015-12-28T12:24:34.548Z'
+datePublished: '2015-12-28T12:26:07.991Z'
+dateModified: '2015-12-28T12:26:03.766Z'
 title: Sommes-nous prêts à payer pour bien manger?
 author: []
 sourcePath: _posts/2015-12-27-sommes-nous-prets-a-payer-pour-bien-manger.md
@@ -22,6 +22,8 @@ url: sommes-nous-prets-a-payer-pour-bien-manger/index.html
 _type: Article
 
 ---
+# Sommes-nous prêts à payer pour bien manger?
+
 Dans sa chronique du 17 août, Mme Marie-Claude Lortie commente la décision des rôtisseries St-Hubert de servir du poulet dont l'alimentation comportera dorénavant jusqu'à 10% de farines animales. 
 
 Or, la décision de St-Hubert est scandaleuse à plusieurs égards, notamment parce que l'entreprise aura attendu plusieurs mois pour informer sa clientèle et que pendant ce temps, son site Internet continuait de prétendre que ses poulets étaient nourris uniquement de matières végétales. 
