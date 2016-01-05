@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Description
-datePublished: '2016-01-05T03:25:10.072Z'
-dateModified: '2016-01-05T03:25:05.411Z'
+datePublished: '2016-01-05T12:04:06.318Z'
+dateModified: '2016-01-05T12:03:56.060Z'
 title: Accessibilité à la justice
 author: []
 sourcePath: _posts/2015-12-30-title-title-title.md
@@ -24,7 +24,7 @@ _type: Article
 ---
 # Accessibilité à la justice
 
-[COMMISSION DES SERVICES JURIDIQUES][0]
+COMMISSION DES SERVICES JURIDIQUES
 
 29 December at 10:45
 
@@ -32,19 +32,18 @@ BONNE NOUVELLE:
 
 Hausse des seuils de l'admissibilité gratuite à l'aide juridique : voici le barème à compter du 1er janvier 2016\.
 
-Et les seuils de faible revenu (2012, avant impôt) sont:  
-[][1]
+Et les seuils de faible revenu (2012, avant impôt) sont:
 
 1 personne: 20 032
-null
+
+nullnull
+
+[][0]
+
 null
 
-[][2]
+[][0]
+
 null
 
-[][2]
-null
-
-[0]: https://www.facebook.com/CSJ.QC.CA/photos/a.552408868145713.1073741828.552227504830516/954764717910124/?type=3&fref=nf
-[1]: https://www.facebook.com/frederic.gouin?fref=ufi
-[2]: https://www.facebook.com/CSJ.QC.CA/photos/a.552408868145713.1073741828.552227504830516/954764717910124/?type=3
+[0]: https://www.facebook.com/CSJ.QC.CA/photos/a.552408868145713.1073741828.552227504830516/954764717910124/?type=3
