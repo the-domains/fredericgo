@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Description
-datePublished: '2016-01-05T03:23:57.242Z'
-dateModified: '2015-12-31T13:22:14.698Z'
+datePublished: '2016-01-05T03:25:10.072Z'
+dateModified: '2016-01-05T03:25:05.411Z'
 title: Accessibilité à la justice
 author: []
 sourcePath: _posts/2015-12-30-title-title-title.md
