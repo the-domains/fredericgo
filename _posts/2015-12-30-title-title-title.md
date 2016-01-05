@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: Description
-datePublished: '2015-12-30T12:17:51.344Z'
-dateModified: '2015-12-30T12:17:46.998Z'
-title: Title Title Title
+datePublished: '2016-01-05T03:23:57.242Z'
+dateModified: '2015-12-31T13:22:14.698Z'
+title: Accessibilité à la justice
 author: []
 sourcePath: _posts/2015-12-30-title-title-title.md
 published: true
@@ -22,38 +22,29 @@ url: title-title-title/index.html
 _type: Article
 
 ---
-# Title Title Title
+# Accessibilité à la justice
 
-Line 1
+[COMMISSION DES SERVICES JURIDIQUES][0]
 
-SHOPPING ONLINE
-Help
-Track my order
-Contact Us
-Brochure Request
-Delivery
-Returns
-Business to Business
-OUR STORES
-UK Stores
-International Stores
-ABOUT US
-Our Story
-Careers
-Affiliates
-Press Enquiries
-Charity
-Corporate Social Responsibility
-SIMPLER SHOPPING
-Quick Shop
-A-Z Search
-Gift Vouchers
-Visit The US Site
-Prezola Wedding Gift List
-EXPLORE OUR WORLD
-Facebook
-Twitter
-Google+
-Pinterest
-Instagram
-Blog
+29 December at 10:45
+
+BONNE NOUVELLE:
+
+Hausse des seuils de l'admissibilité gratuite à l'aide juridique : voici le barème à compter du 1er janvier 2016\.
+
+Et les seuils de faible revenu (2012, avant impôt) sont:  
+[][1]
+
+1 personne: 20 032
+null
+null
+
+[][2]
+null
+
+[][2]
+null
+
+[0]: https://www.facebook.com/CSJ.QC.CA/photos/a.552408868145713.1073741828.552227504830516/954764717910124/?type=3&fref=nf
+[1]: https://www.facebook.com/frederic.gouin?fref=ufi
+[2]: https://www.facebook.com/CSJ.QC.CA/photos/a.552408868145713.1073741828.552227504830516/954764717910124/?type=3
