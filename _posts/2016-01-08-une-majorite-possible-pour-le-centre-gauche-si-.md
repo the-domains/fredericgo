@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-08T20:13:35.114Z'
-dateModified: '2016-01-08T20:13:11.555Z'
+datePublished: '2016-01-09T14:54:40.768Z'
+dateModified: '2016-01-09T14:54:18.525Z'
 title: Une majorité possible pour le centre-gauche si ...
 author: []
 authors: []
@@ -33,4 +33,3 @@ Au lieu de diviser le vote "à gauche du centre", est-ce qu'il n'est pas temps q
 Ce tableau ne présente que les circonscriptions où des gains théoriques auraient pu être faits par les partis "de gauche". 
 
 ****
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/602920d9-295c-4f4d-8e5e-81f7a4ad3a55.png)
