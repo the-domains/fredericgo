@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Description
-datePublished: '2016-01-05T12:04:06.318Z'
-dateModified: '2016-01-05T12:03:56.060Z'
+description: COMMISSION DES SERVICES JURIDIQUES
+datePublished: '2016-03-08T15:22:52.195Z'
+dateModified: '2016-03-08T15:21:08.052Z'
 title: Accessibilité à la justice
 author: []
 sourcePath: _posts/2015-12-30-title-title-title.md
